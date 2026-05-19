@@ -1,0 +1,66 @@
+# רכב 4u — Generative Engine Optimization Map
+
+> An automotive dealership business seeking a landing page to showcase their vehicles and services. The specific brand identity, vehicle types, and unique selling points are yet to be defined.
+
+---
+
+## Pages
+
+### בית
+https://4u-86e6d37a.zappy5.app
+An automotive dealership business seeking a landing page to showcase their vehicles and services. The specific brand identity, vehicle types, and unique selling
+
+## Legal & Policy
+
+### Privacy Policy
+https://4u-86e6d37a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://4u-86e6d37a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://4u-86e6d37a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://4u-86e6d37a.zappy5.app
+- Endpoint: https://4u-86e6d37a.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About רכב 4u
+An automotive dealership business seeking a landing page to showcase their vehicles and services. The specific brand identity, vehicle types, and unique selling points are yet to be defined.
+
+## Target Audience
+- משפחות צעירות
+- חובבי רכבי יוקרה
+- נוסעי קבע
+
+## Industry
+Automotive Dealership
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://4u-86e6d37a.zappy5.app/sitemap.xml
+- Robots: https://4u-86e6d37a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://4u-86e6d37a.zappy5.app/llms-full.txt
